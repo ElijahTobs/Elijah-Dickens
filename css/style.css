@@ -1,0 +1,18 @@
+body{
+    background-color: lightcoral;
+}
+
+@media(max-width: 600px){
+    body{
+        background-color: lightblue;
+    }
+}
+
+div {
+    display: flex;
+
+}
+
+p {
+    flex-direction: row;
+}
